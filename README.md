@@ -12,8 +12,8 @@ My enthusiasm lies in streamlining processes and converting data into meaningful
 
 <div>
   <a href="https://github.com/kau%C3%A3-watanabe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauawt&show_icons=true&count_private=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauawt&langs_count=16&layout=compact&count_private=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauawt&show_icons=true&count_private=false&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauawt&langs_count=16&layout=compact&count_private=false&theme=dark"/>
 </div>
 
 ## My Stack
