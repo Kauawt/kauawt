@@ -11,7 +11,7 @@ My enthusiasm lies in streamlining processes and converting data into meaningful
 ## GitHub Stats
 
 <div>
-  <a href="https://github.com/kau%C3%A3-watanabe">
+  <a href="https://github.com/kauawt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauawt&show_icons=true&count_private=false&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauawt&langs_count=16&layout=compact&count_private=false&theme=dark"/>
 </div>
@@ -28,6 +28,6 @@ My enthusiasm lies in streamlining processes and converting data into meaningful
 
 I'm always open to collaboration and discussions! Feel free to reach out through my LinkedIn or Gmail.
 <div>
-  <a href="https://www.linkedin.com/in/kau%C3%A3-watanabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-636371?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kaua-watanabe/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-636371?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://mailto:kauawt2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-636371?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
